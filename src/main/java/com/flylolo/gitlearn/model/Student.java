@@ -9,4 +9,5 @@ import lombok.Data;
 public class Student {
     public Long id;
     public String name;
+    public String mail;
 }
